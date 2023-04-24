@@ -4,6 +4,8 @@ void main() {
   runApp(const MyApp());
 }
 
+//Main app Logic 
+
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
   @override
