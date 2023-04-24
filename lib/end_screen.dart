@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class StartScreen extends StatelessWidget {
-  const StartScreen({super.key});
+class EndScreen extends StatelessWidget {
+  const EndScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return Column(
       children: const [
         // Dummy Text
-        Text('This is the Start screen of the app.'),
+        Text('This is the End screen of the app.'),
       ],
     );
   }
